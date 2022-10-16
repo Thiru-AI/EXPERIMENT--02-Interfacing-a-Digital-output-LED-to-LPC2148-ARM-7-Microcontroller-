@@ -117,6 +117,8 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 
 ```
+NAME:Thirugnanamoorthi.G
+REG NO:21221230117
 
 #include <lpc214x.h>
 
